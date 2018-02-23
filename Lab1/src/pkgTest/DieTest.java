@@ -30,12 +30,9 @@ public class DieTest {
 			arrayInt[d.getDieValue()-1]++;
 			
 		}
-		for (int i:arrayInt) {
-		//	assertEquals(iTotalTrials / 6, i, 5);
-			
-		}
 		
 	}
+	
 }
 
 
