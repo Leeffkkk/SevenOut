@@ -4,8 +4,6 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import pkgCore.Roll;
-
 import pkgCore.Round;
 import pkgCore.eGameResult;
 
